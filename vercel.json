@@ -1,6 +1,6 @@
 {
     "version": 2,
-    "name": "instagram-verification-api",
+   
     "functions": {
       "pages/api/verify-instagram.ts": {
         "memory": 1024,
